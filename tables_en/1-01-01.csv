@@ -426,8 +426,8 @@ notation,path/tags,name,description
 727,"particle phase, physical properties",Dust mass concentration,Concentration of dust or sand in the atmosphere
 728,"particle phase, physical properties",Volcanic ash particle mass concentration,3D field of mass mixing ratio of volcanic ash
 729,"particle phase, physical properties",Aerosol volcanic ash (Total column),Field of total column mass of volcanic ash
-12001,\Atmosphere\Lightning\Total lightning density,Total lightning density,
-12002,\Atmosphere\Lightning\Lightning density cloud-to-ground,Lightning density cloud-to-ground,
+12001,\Atmosphere\Lightning\Total lightning density,Total lightning density,"Total number of detected flashes in the corresponding time interval and the space unit. The space unit (grid box) should be equal to the horizontal resolution and the accumulation time to the observing cycle."
+12002,\Atmosphere\Lightning\Lightning density cloud-to-ground,Lightning density cloud-to-ground,"Number of detected cloud-to-ground flashes in the corresponding time interval and the space unit. The space unit (grid box) should be equal to the horizontal resolution and the accumulation time to the observing cycle."
 12005,\Atmosphere\Wind\Horizontal wind direction at specified distance from reference surface,Horizontal wind direction at specified distance from reference surface,Horizontal wind direction at specified distance from reference surface
 12006,\Atmosphere\Wind\Horizontal wind speed at specified distance from reference surface,Horizontal wind speed at specified distance from reference surface,Horizontal wind speed at specified distance from reference surface
 12016,"Atmosphere\Gas\Greenhouse Gas\CFCs\Cl3CCF3 (1,1,1-trichloro-2,2,2-trifluoroethane, CFC-113a)","Cl3CCF3 (1,1,1-trichloro-2,2,2-trifluoroethane, CFC-113a)","IUPAC: 1,1,1-trichloro-2,2,2-trifluoroethane, PubChem CID: 9635, CAS Number: 354-58-5, in gas phase"
