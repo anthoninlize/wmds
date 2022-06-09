@@ -16,3 +16,4 @@ voiceLandline,Voice/landline,Voice communications using a fixed terrestrial tele
 voiceRadio,Voice/radio,"Voice communications using a direct radio system (such as VHF, HF SSB)"
 voiceSatellite,Voice/satellite,Voice communications using a satellite telecommunications network
 Telegraph,TG,"TG communications .... ,  using a radio signal "
+Voice,TG,"TG communications .... ,  using a radio signal "
