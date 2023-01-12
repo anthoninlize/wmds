@@ -121,3 +121,5 @@ http://codes.wmo.int/wmdr/ObservedVariableAtmosphere/251,http://codes.wmo.int/wm
 http://codes.wmo.int/wmdr/ProgramAffiliation/CLIMATt,http://codes.wmo.int/wmdr/ProgramAffiliation/RBON
 http://codes.wmo.int/wmdr/ProgramAffiliation/CLIMATct,http://codes.wmo.int/wmdr/ProgramAffiliation/RBON
 http://codes.wmo.int/wmdr/ProgramAffiliation/CLIMATc,http://codes.wmo.int/wmdr/ProgramAffiliation/RBON
+http://codes.wmo.int/wmdr/ObservedVariableAtmosphere/573,http://codes.wmo.int/wmdr/ObservedVariableAtmosphere/[include id for Downward short-wave irradiance]
+http://codes.wmo.int/wmdr/ObservedVariableAtmosphere/574,http://codes.wmo.int/wmdr/ObservedVariableAtmosphere/[include id for Upward short-wave irradiance]
